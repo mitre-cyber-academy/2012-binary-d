@@ -1,0 +1,6 @@
+name: "Is that a challenge in my bed?"
+description: |
+  It looks like Chuck is sending some mixed signals. Is it [alive?](http://$static_file_server/bd-355bdfd51c9343749c7e3f19ede2dcf6/testa)
+  
+  MD5: d408b8c0929455f5b96667044f65b1b5
+flag: "MCA-225D4AFD"
